@@ -28,6 +28,9 @@ We train on 75% of data and test on 25%
 |    UNIQUE ID          |    0.96716848                                 |    0.97340426              |    0.97027635    |
 
 
-Credits:
-The tutorial by Tobias Sterbak was very helpful for training the BERT model
-https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+### Credits:
+The [tutorial](https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/) by Tobias Sterbak was very helpful for training the BERT model
+
+
+
+
