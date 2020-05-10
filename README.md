@@ -26,3 +26,8 @@ We train on 75% of data and test on 25%
 |    NAME               |    0.99179696                                 |    0.99013438              |    0.99096497    |
 |    OTHER (non-PHI)    |    0.99934905                                 |    0.99934959              |    0.99934932    |
 |    UNIQUE ID          |    0.96716848                                 |    0.97340426              |    0.97027635    |
+
+
+Credits:
+The tutorial by Tobias Sterbak was very helpful for training the BERT model
+https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
