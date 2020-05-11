@@ -1,4 +1,4 @@
-# BERT-based-medical-text-de-identification
+# BERT based medical text de-identification
 
 ## Requirements:
 We have used the Transformers library of python. 
